@@ -1,0 +1,20 @@
+{
+  "rain_range": [0, 100, 200, 400],
+  "temp_range": [10, 20, 30, 40],
+  "base_growth": 0.5,
+  "care_bonus": 0.2,
+  "dry_base_days": 1,
+  "dry_rain_factor": 1,
+  "grade_factors": {"A": 1, "B": 0.7, "C": 0.4},
+  "roast_factors": {"light": 1, "medium": 1.1, "dark": 0.9},
+  "water_cost": 5,
+  "fertilizer_cost": 10,
+  "starting_balance": 100,
+  "star_target": 120,
+  "trees_per_ha": 1000,
+  "ripen_days": 2,
+  "grade_yellow_at": 0.4,
+  "grade_red_at": 0.8,
+  "season_days": 30,
+  "sources": {"agronomy": "DUMMY", "postharvest": "DUMMY", "economy": "DUMMY"}
+}

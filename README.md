@@ -1,5 +1,10 @@
 # ☕ KopiTani Tycoon
 
+> Status repo: Bagian A (data, logika, UI, server) kini dapat dicoba dengan
+> `python app.py --dummy`. Angka demo berlabel DUMMY; data asli belum tersedia.
+> Lihat [panduan Bagian A](README_BAGIAN_A.md). Dokumen lama di bawah ini masih
+> menggambarkan rencana awal; PRD v2 berada di `docs/prd.md`.
+
 **Game Edukasi Budidaya dan Pengolahan Kopi Berbasis Web Menggunakan Pycairo**
 
 Final Project Mata Kuliah Grafika Komputer — Informatika 2026
